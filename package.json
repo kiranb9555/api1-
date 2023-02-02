@@ -4,6 +4,7 @@
   "description": "Nsp_restapi",
   "main": "index.js",
   "scripts": {
+    "dev":"npm server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Raj",
